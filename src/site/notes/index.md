@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Manuale REI","dgShowToc":true,"dg-note-properties":{"permalink":"/","title":"Manuale REI"}}
+{"dg-publish":true,"permalink":"/","title":"Manuale REI","dgShowToc":true,"dg-note-properties":{"permalink":"/","title":"Manuale REI"}}
 ---
 
 * [[Manuale di REI/SECTION00_Download_Installation_Start/SECTION00_Download_Installation_Start\|SECTION00_Download_Installation_Start]]
